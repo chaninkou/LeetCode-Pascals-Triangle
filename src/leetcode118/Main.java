@@ -1,4 +1,4 @@
-package triangle;
+package leetcode118;
 
 public class Main {
 	public static void main(String[] args) {
